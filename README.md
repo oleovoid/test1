@@ -1,6 +1,3 @@
 # test1
 hello world!
-```
-print('hi')
-
-```
+whats going onnnnnnnnnn
